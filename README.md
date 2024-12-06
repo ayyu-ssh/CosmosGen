@@ -60,3 +60,6 @@ curl -X POST "http://127.0.0.1:8000/query"
 ```
 
 The response will contain an answer to the question based on the relevant chunks retrieved from the Cosmos text.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
