@@ -1,0 +1,14 @@
+faiss
+fastapi
+nltk
+pydantic
+PyPDF2
+python_dotenv
+requests
+sentence-transformers
+transformers
+uvicorn
+json
+re
+pickle
+numpy
