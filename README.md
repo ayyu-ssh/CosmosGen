@@ -33,5 +33,5 @@ touch .env
 ```bash
 notepad .env
 ```
-  Save the API key with format `HF_API_KEY = {your_api_key}`.
+3. Save the API key with format `HF_API_KEY = {your_api_key}`.
 
