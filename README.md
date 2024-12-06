@@ -8,3 +8,8 @@ CosmosGen is a powerful Retrieval-Augmented Generation (RAG) system designed to 
 - Generative AI: Leverages the GPT-Neo model for generating elaborative answers.
 Vector Database: Stores and searches knowledge using FAISS, ensuring fast retrieval of relevant information.
 - API Integration: Built with FastAPI, providing a simple RESTful interface for interaction.
+## Project Setup
+### 1. Clone the Repository
+git clone https://github.com/your-username/CosmosGen.git
+cd CosmosGen
+
