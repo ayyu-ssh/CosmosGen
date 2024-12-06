@@ -10,12 +10,14 @@ Vector Database: Stores and searches knowledge using FAISS, ensuring fast retrie
 - API Integration: Built with FastAPI, providing a simple RESTful interface for interaction.
 ## Project Setup
 ### 1. Clone the Repository
-```bash
-  git clone https://github.com/your-username/CosmosGen.git
-  cd CosmosGen
+```
+bash
+git clone https://github.com/your-username/CosmosGen.git
+cd CosmosGen
 ```
 ### 2. Install Dependencies
-```bash
+```
+bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use venv\Scripts\activate
 pip install -r requirements.txt
@@ -24,12 +26,14 @@ pip install -r requirements.txt
 Create a `.env` file in the project root directory to store sensitive information such as API keys.
 
 Create a `.env` file:
-```bash
+```
+bash
 touch .env
 ```
 
 Add the Hugging Face API key:
 
-```plaintext
+```
+plaintext
 HF_API_KEY=your_huggingface_api_key
 ```
