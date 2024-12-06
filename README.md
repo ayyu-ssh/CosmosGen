@@ -10,6 +10,7 @@ Vector Database: Stores and searches knowledge using FAISS, ensuring fast retrie
 - API Integration: Built with FastAPI, providing a simple RESTful interface for interaction.
 ## Project Setup
 ### 1. Clone the Repository
+```bash
   git clone https://github.com/your-username/CosmosGen.git
   cd CosmosGen
-
+```
