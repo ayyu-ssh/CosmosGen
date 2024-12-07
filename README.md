@@ -39,7 +39,7 @@ notepad .env
 
 ### 4. Produce required files (chunked_text, embeddings, vector database):
 ```bash
-python extract.py --input_file Carl Sagan - Cosmos \(1980\)_knowledge_base.pdf --output_file text_data.json\
+python extract.py --input_file Carl Sagan - Cosmos \(1980\)_knowledge_base.pdf --output_file text.json\
 python preprocess.py --input_file text.json --output_file chunked_text.json\
 python embeddings.py --input_file chunked_text.json --output_file embeddings.pkl\
 python vector_db.py --input_file embeddings.pkl --output_file faiss_index.bin
