@@ -21,4 +21,4 @@ For steps to run the application and get started, refer [instructions.](Insturct
 ![Test 2](assets/test1.png)
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
