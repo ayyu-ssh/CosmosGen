@@ -13,5 +13,9 @@ CosmosGen is a powerful Retrieval-Augmented Generation (RAG) system designed to 
 
 ![Test 1](assets/test2.png)
 
+
+
+![Test 2](assets/test1.png)
+
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
