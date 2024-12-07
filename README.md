@@ -1,6 +1,6 @@
 # CosmosGen :  Knowledge-Infused QA System
 ## Overview
-CosmosGen is a powerful Retrieval-Augmented Generation (RAG) system designed to answer questions about the universe, drawing from Carl Sagan's Cosmos as the primary knowledge base. Using cutting-edge machine learning models like GPT-Neo for generative responses and FAISS for efficient vector search, CosmosGen can provide insightful, contextually accurate answers to various questions about space, science, and philosophy.
+CosmosGen is a basic Retrieval-Augmented Generation (RAG) system designed to answer questions about the universe, drawing from Carl Sagan's Cosmos as the primary knowledge base. Using cutting-edge machine learning models like GPT-Neo for generative responses and FAISS for efficient vector search, CosmosGen can provide insightful, contextually accurate answers to various questions about space, science, and philosophy.
 
 
 For steps to run the application and get started, refer [instructions.](instrustions.md).
