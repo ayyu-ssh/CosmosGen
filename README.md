@@ -9,5 +9,9 @@ CosmosGen is a powerful Retrieval-Augmented Generation (RAG) system designed to 
 - Vector Database: Stores and searches knowledge using FAISS, ensuring fast retrieval of relevant information.
 - API Integration: Built with FastAPI, providing a simple RESTful interface for interaction.
 
+## Testimonials
+
+![Test 1](assets/test2.png)
+
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
